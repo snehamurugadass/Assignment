@@ -3,7 +3,7 @@
     font-size: 3rem;
 }
 .navbar-nav {
-    margin-left: auto; Pushes the nav items to the right
+    /* margin-left: auto; Pushes the nav items to the right */
 }
 .navbar-brand img {
     width: 40px; /* Adjust the size of the logo as needed */
